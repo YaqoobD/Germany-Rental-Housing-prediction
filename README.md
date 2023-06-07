@@ -1,5 +1,6 @@
 # Germany Rental Housing Prediction 🏘️📈
-## Introduction
+
+## Introduction 🌟
 
 * Housing Crisis in germany is getting grave.
 * The country’s current government wants to create an entirely new ministry to oversee it.

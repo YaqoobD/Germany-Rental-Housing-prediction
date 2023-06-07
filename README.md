@@ -1,4 +1,4 @@
-# Germany-Rental-Housing-prediction
+# Germany Rental Housing Prediction 🏘️📈
 ## Introduction
 
 * Housing Crisis in germany is getting grave.
@@ -10,7 +10,7 @@
 
 ![Screenshot 2022-04-30 at 20 51 23](https://user-images.githubusercontent.com/52135942/166118827-0646ffdd-2f37-4fde-8cbf-cfce73716222.png)
 
-## Dataset
+## Dataset 📊
 * The data is obtained from “Kaggle” for this project.
 * The data was scraped from Immoscout24.
 * The data set contains most of the important properties, such as living area size, the rent etc.
@@ -20,7 +20,7 @@
 ![image](https://user-images.githubusercontent.com/52135942/166118892-eada0f77-7763-4bb2-b2e2-470692dac175.png)
 
 
-## What to Expect
+## What to Expect 🎯
 
 * Data cleaning to clear the outliers and remove columns that doesn't have high correlation to the prediction
 * Create visualization to have a better understanding of the rental properties in Germany.
